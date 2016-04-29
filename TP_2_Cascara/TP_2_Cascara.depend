@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1461632636 source:f:\nacho\utn avellaneda\cursada 2016\trabajo practico 2\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<windows.h>
+
+1461768290 f:\nacho\utn avellaneda\cursada 2016\trabajo practico 2\tp_2_cascara\funciones.h
+
+1009947756 source:f:\nacho\utn avellaneda\cursada 2016\trabajo practico 2\tp_2_cascara\funciones.c
+	<stdio.h>
+	"funciones.h"
+	<ctype.h>
+	<string.h>
+
+1461961644 source:h:\nacho\utn avellaneda\cursada 2016\trabajo practico 2\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<windows.h>
+	<conio.h>
+
+1461961896 h:\nacho\utn avellaneda\cursada 2016\trabajo practico 2\tp_2_cascara\funciones.h
+
+1461961644 source:h:\nacho\utn avellaneda\cursada 2016\trabajo practico 2\tp_2_cascara\funciones.c
+	<stdio.h>
+	"funciones.h"
+	<ctype.h>
+	<string.h>
+	<windows.h>
+
